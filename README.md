@@ -2,9 +2,9 @@
 
 Este projeto tem como objetivo desenvolver uma aplicação capaz de coletar notícias de diferentes fontes, treinar uma rede neural para identificar fatores de polarização política e relacionar as notícias contextualizando-as.
 
-Através da coleta de dados das principais fontes de notícias, nós podemos treinar nossa rede neural para identificar e classificar a polaridade política das notícias, além de relacioná-las a eventos e contextos específicos, tornando possível a análise e compreensão de tendências políticas.
+Através da coleta de dados das principais fontes de notícias, nós podemos treinar nossa rede neural para identificar e classificar a polaridade política das notícias, além de relacioná-las a eventos e contextos específicos, tornando possível a análise e compreensão de tendências.
 
-Este projeto é importante porque em um mundo cada vez mais polarizado, é fundamental ter uma visão clara e precisa do que está acontecendo em termos de notícias e opiniões políticas. Com o uso desta aplicação, podemos fornecer informações precisas e imparciais para indivíduos, organizações e governos, ajudando a tomar decisões informadas e promover a compreensão e tolerância.
+Este projeto é importante porque em um mundo cada vez mais polarizado, é fundamental ter uma visão clara e precisa do que está acontecendo em termos de notícias e opiniões. Com o uso desta aplicação, podemos fornecer informações precisas e imparciais para indivíduos, organizações e governos, ajudando a tomar decisões informadas e promover a compreensão e tolerância.
 
 ## Etapas do projeto:
 - [ ] **Coleta de dados:** Realizar a raspagem de dados em sites de notícias para coletar as notícias relevantes para o treinamento.
